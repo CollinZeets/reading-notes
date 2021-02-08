@@ -1,0 +1,5 @@
+- [Table of Contents](README.md)
+
+# Notes for Reading 01
+- Responsive Web Design is the practice of building a website suitable to work on every device and screen size, no matter how large or small, mobile or desktop. Responsive and adaptive web design are closely related, and often transposed as one in the same. Responsive generally means to react quickly and positively to any change, while adaptive means to be easily modified for a new purpose or situation.
+- Float is a CSS positioning property. There are four valid values for the float property. Left, Right, None and Inherit. Floats can be used to make entire web layouts. Float’s sister property is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
