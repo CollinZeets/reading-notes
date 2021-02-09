@@ -1,0 +1,8 @@
+- [Table of Contents](README.md)
+
+# Notes for Reading 02
+- Events are the browser's way of indicating when
+something has happened. Binding is the process of stating which event you are
+waiting to happen, and which element you are waiting
+for that event to happen upon. You can use event delegation to monitor for events
+that happen on all of the children of an element.

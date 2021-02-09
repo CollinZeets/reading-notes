@@ -31,3 +31,4 @@ Italicized text is the _cat's meow_.
 # Table of Contents
 
 - [Read:01 - SMACSS and Responsive Web Design](Notes-01.md)
+- [Read: 02 - jQuery, Events, and The DOM](Notes-02.md)
